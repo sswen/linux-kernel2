@@ -59,6 +59,17 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
+Reporting
+=========
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the Technical Advisory Board (TAB) at
+<tab@lists.linux-foundation.org>. All complaints will be reviewed and
+investigated and will result in a response that is deemed necessary and
+appropriate to the circumstances. The TAB is obligated to maintain
+confidentiality with regard to the reporter of an incident (except where
+required by law).
+
 Attribution
 ===========
 
